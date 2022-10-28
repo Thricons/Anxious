@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fuck",
+  "name": "Reborn",
+  "description": "nmsl",
+  "version": "null lol",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MiLiBlue"],
+  "credits": "Reborn.today",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
